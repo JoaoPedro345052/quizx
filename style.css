@@ -1,0 +1,52 @@
+/* comentario em CSS */
+/* elemento */
+/* classe */
+/* pseudoclasse */
+/* id */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: cyan
+}
+
+h1 {
+    text-align: center;
+    margin: 1%; 
+    margin-top: 1p%; 
+    color: aliceblue;
+}
+
+.texto {
+    text-align: justify;
+    line-height: 19px;
+    background: aliceblue;
+    padding: 10px; 
+    border-radius: 10px;
+}
+
+.inicio {
+    background: blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 4%;
+    margin-top: 4%
+}
+
+.link {
+    background: blue;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 4%;
+    margin-top: 25px
+    
+}
+
+a {
+    color: aliceblue;
+    line-height: 33px;
+}
+
+a:hover {
+    color: yellow;
+    background-color: limegreen;
+    padding: 10px
+}
